@@ -7,9 +7,9 @@
 
 For a full evaluation with all our plots and explanations, please look at the paper.
 
-<img src = "https://i.imgur.com/450YoFl.png" >
+<img src = "https://i.imgur.com/WcEJ45F.png" >
 
-<img src = "https://i.imgur.com/Yu96SyP.png" >
+<img src = "https://i.imgur.com/kE2yBdy.png" >
 
 ## List of Optimizers
 We keep a somewhat updated list of optimizers which can be used for Deep Learning, if you want to add any method, please create a pull request:
